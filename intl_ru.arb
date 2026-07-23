@@ -1,0 +1,291 @@
+{
+  "muslimap": "Muslimap",
+  "seif_kandil": "Сейф Кандил",
+  "english": "Английский",
+  "arabic": "Арабский",
+  "russian": "Русский",
+
+  "saturday_short": "Сб",
+  "sunday_short": "Вс",
+  "monday_short": "Пн",
+  "tuesday_short": "Вт",
+  "wednesday_short": "Ср",
+  "thursday_short": "Чт",
+  "friday_short": "Пт",
+
+  "january": "Январь",
+  "february": "Февраль",
+  "march": "Март",
+  "april": "Апрель",
+  "may": "Май",
+  "june": "Июнь",
+  "july": "Июль",
+  "august": "Август",
+  "september": "Сентябрь",
+  "october": "Октябрь",
+  "november": "Ноябрь",
+  "december": "Декабрь",
+
+  "fajr": "Фаджр",
+  "sunrise": "Восход",
+  "dhuhr": "Зухр",
+  "jumuaah": "Джума",
+  "asr": "Аср",
+  "maghrib": "Магриб",
+  "isha": "Иша",
+  "zero": "0",
+  "one": "1",
+  "two": "2",
+  "indic_two": "2",
+  "three": "3",
+  "four": "4",
+  "five": "5",
+  "six": "6",
+  "seven": "7",
+  "eight": "8",
+  "nine": "9",
+  "in_preposition": "через",
+  "north_symbol": "С",
+  "south_symbol": "Ю",
+  "east_symbol": "В",
+  "west_symbol": "З",
+  "north_west_symbol": "СЗ",
+  "south_west_symbol": "ЮЗ",
+  "south_east_symbol": "ЮВ",
+  "north_east_symbol": "СВ",
+  "qibla": "Кибла",
+  "report_wrong_timings": "Сообщить о неверном времени",
+  "settings": "Настройки",
+  "language": "Язык",
+  "use_english_digits": "",
+  "notifications": "Уведомления",
+  "location": "Местоположение",
+  "calculations": "Расчеты",
+  "use_24hour_format": "Использовать 24-часовой формат",
+  "about": "О приложении",
+
+  "calculation_method_parameter_title": "Метод расчета",
+  "shafaq_parameter_title": "Шафак",
+  "school_parameter_title": "Мазхаб",
+  "midnight_mode_parameter_title": "Режим полуночи",
+  "latitude_adjustment_method_parameter_title": "Метод коррекции для высоких широт",
+  "timings_tune_parameter_title": "Ручная корректировка времени",
+  "daylight_saving_time_parameter_title": "Летнее время",
+
+  "university_of_islamic_sciences_karachi_parameter": "Университет исламских наук, Карачи",
+  "islamic_society_north_america_parameter": "Исламское общество Северной Америки",
+  "muslim_world_league_parameter": "Всемирная исламская лига",
+  "umm_al_qura_university_makkah_parameter": "Университет Умм аль-Кура, Мекка",
+  "egyptian_general_authority_of_survey_parameter": "Египетское управление геодезии",
+  "gulf_region_parameter": "Регион Персидского залива",
+  "kuwait_parameter": "Кувейт",
+  "qatar_parameter": "Катар",
+  "islamic_religious_council_singapore_parameter": "Исламский религиозный совет Сингапура",
+  "islamic_union_organization_france_parameter": "Исламская организация единения, Франция",
+  "presidency_of_religious_affairs_turkey_parameter": "Управление по делам религии, Турция",
+  "spiritual_administration_of_muslims_russia_parameter": "Духовное управление мусульман России",
+  "moonsighting_committee_worldwide_parameter": "Комитет по наблюдению луны (всемирный)",
+  "dubai_uae_parameter": "Дубай, ОАЭ (неофициальный)",
+  "department_of_islamic_development_malaysia_jakim_parameter": "Департамент исламского развития Малайзии (JAKIM)",
+  "tunisia_parameter": "Тунис",
+  "algeria_parameter": "Алжир",
+  "ministry_of_religion_indonesia_kemenag_parameter": "Министерство религии Индонезии (KEMENAG)",
+  "morocco_parameter": "Марокко",
+  "islamic_community_lisbon_portugal_parameter": "Исламская община Лиссабона, Португалия",
+  "ministry_of_awqaf_islamic_affairs_and_holy_places_jordan_parameter": "Министерство вакфов, исламских дел и святых мест Иордании",
+
+  "general_shafaq_parameter": "Общий",
+  "white_shafaq_parameter": "Белый",
+  "red_shafaq_parameter": "Красный",
+
+  "shafi_parameter": "Шафии, Ханбали и Малики",
+  "hanafi_parameter": "Ханафи",
+
+  "mid_sunset_to_sunrise_parameter": "Середина между закатом и восходом",
+  "mid_sunset_to_fajr_parameter": "Середина между закатом и фаджром (джафаритский)",
+
+  "middle_of_the_night_parameter": "Середина ночи",
+  "seventh_of_the_night_parameter": "Седьмая часть ночи",
+  "angle_based_parameter": "По углу",
+
+  "auto": "Авто",
+  "enabled": "Включено",
+  "disabled": "Отключено",
+  "minute": "Минута",
+  "system_s_default": "Системные настройки",
+  "recommended": "Рекомендуется",
+  "default_text_word": "По умолчанию",
+  "standard": "Стандартный",
+  "theme": "Тема",
+  "light": "Светлая",
+  "dark": "Темная",
+  "azkaar_almasaa": "Вечерние азкары",
+  "azkaar_alsapah": "Утренние азкары",
+  "saved_locations": "Сохраненные места",
+  "salahh_title": "Намаз",
+  "current_text_word": "Текущий",
+  "new_text_word": "Новый",
+  "apply": "Применить",
+  "question_mark": "?",
+  "city": "Город",
+  "region": "Континент",
+  "country": "Страна",
+  "state": "Состояние",
+  "salahh_times_compare_no_significant_difference": "Нет значительной разницы между текущими и новыми временами.",
+  "ok": "Хороший",
+  "cancel": "Отмена",
+  "yes": "Да",
+  "no_changes": "Нет изменений",
+  "no_salahh_times_to_compare": "Нет времен намаза для сравнения",
+  "are_you_sure": "Вы уверены",
+  "you_did_not_select_an_item": "Вы не выбрали элемент",
+  "comma_separator": ",",
+  "percent_symbol": "%",
+  "the_sahn": "Сахн",
+  "meet": "Встретиться",
+  "upcoming": "предстоящий",
+  "sahn_introduction_message": "Мы заменили старый Дом на Сахн — ваше место для быстрого запуска. Нажмите на красочный значок Сахн, чтобы начать.",
+  "processing_salahh_times_message": "Обработка времен намаза...",
+  "something_went_wrong": "Что-то пошло не так.",
+  "optional": "необязательно",
+  "no_saved_salahh_data": "Нет сохраненных данных намаза для этого местоположения.",
+  "issue_submission_cooldown_message": "Вы уже отправили проблему. Пожалуйста, подождите {minutes} минут, прежде чем отправлять другую.",
+  "@issue_submission_cooldown_message": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "please_select_an_issue_type": "Пожалуйста, выберите проблему.",
+  "issue_submitted_successfully": "Проблема успешно отправлена. Спасибо за ваш вклад!",
+
+  "report_issue": "Сообщить о проблеме",
+
+  "issue_type": "Тип проблемы",
+  "wrong_salahh_timings_issue": "Неверные времена намаза",
+  "wrong_qibla_issue": "Неверное направление киблы",
+  "wrong_localization_issue": "Неверная локализация",
+  "bug_issue": "Ошибка",
+  "enhancement_issue": "Улучшение",
+  "feature_request_issue": "Запрос функции",
+  "inappropriate_ad": "неуместная реклама",
+  "other_issue": "Другая",
+
+  "description": "Описание",
+  "describe_your_issue_here": "Опишите вашу проблему здесь...",
+  "unknown_location": "неизвестное местоположение",
+  "abbreviated_latitude": "Широта",
+  "abbreviated_longitude": "Долгота",
+  "no_coordinates": "Координаты отсутствуют",
+  "saved_entry": "сохраненная запись",
+  "no_data": "Данных нет",
+  "retry": "повторить попытку",
+  "api_token_expired_message": "Пожалуйста, обновите Muslimap до последней версии, чтобы и в дальнейшем получать поддержку.",
+
+  "search_regions": "Поиск континентов",
+  "search_countries": "Поиск по странам",
+  "search_states": "Поиск штатов",
+  "search_cities": "Поиск городов",
+  "search_regions_hint_text": "Поиск по континенту...",
+  "search_countries_hint_text": "Поиск по стране...",
+  "search_states_hint_text": "Поиск по штату...",
+  "search_cities_hint_text": "Поиск по городу, штату или стране...",
+  "no_internet_connection": "Нет подключения к Интернету",
+
+  "linkedin_profile": "Профиль в LinkedIn",
+
+  "report_issue_alternative_note": "Или можете связаться со мной в LinkedIn — просто оставьте запрос на добавление в друзья с пометкой «muslimap fan». Эх, спасибо!",
+  "link_copied_to_clipboard": "Ссылка скопирована в буфер обмена!",
+
+  "calculation_method_definition": "Набор заранее установленных правил, используемых для расчета времени молитв (в основном, для определения времени молитв Фаджр и Иша по положению солнца).",
+  "shafaq_definition": "Тип сумерек, по которому определяется начало ночи (Иша) — обычно это момент, когда исчезает красноватый оттенок или свет на небе.",
+  "school_definition": "Исламская правовая школа (мадхаб), которой вы следуете, влияет на время некоторых молитв (например, молитвы Аср, время которой определяется по длине тени).",
+  "midnight_mode_definition": "Способ расчета «исламской полуночи» — либо как середина отрезка между заходом и восходом солнца, либо между заходом солнца и молитвой Фаджр.",
+  "latitude_adjustment_method_definition": "Правило, используемое для расчета времени молитвы в высокоширотных районах, где обычные схемы восхода и захода солнца не работают должным образом.",
+  "daylight_saving_time_definition": "Корректировка времени (обычно на +1 час), которая изменяет отображаемое время молитвы, не изменяя фактическое положение солнца.",
+
+  "muslimap_v1_support_expire_date_note": "Поддержка Muslimap v1 будет прекращена {date}. Пожалуйста, обновите приложение до последней версии, чтобы и в дальнейшем получать обновления и поддержку.",
+  "@muslimap_v1_support_expire_date_note": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+
+  "powered_by": "при поддержке",
+  "developer_note": "Я создал Muslimap в мрачный и тяжелый период своей жизни. Я молюсь, чтобы Аллах простил мои недостатки и принял это скромное начинание, а также даровал мне долю награды за каждую душу, которой это приложение поможет не забывать о молитвах.",
+  "version": "Версия",
+  "developed_by": "разработано",
+  "present": "В настоящее время",
+  "please_wait": "Пожалуйста, подождите",
+  "no_magnetometer_sensor_found": "В вашем телефоне используется другая конфигурация датчиков, поэтому функции, основанные на работе магнитометра, на этом устройстве недоступны.",
+  "rate_me": "оцените меня",
+  "battery_optimization_title": "Точные уведомления",
+  "battery_optimization_message": "Чтобы уведомления об азане приходили вовремя, разрешите приложению игнорировать оптимизацию расхода батареи.",
+  "battery_optimization_denied_help": "Уведомления могут приходить с задержкой из-за системных настроек вашего устройства.",
+  "allow": "Разрешить",
+  "dnd_access_title": "Не беспокоить",
+  "dnd_access_message": "Чтобы азан звучал даже при включенном режиме «Не беспокоить», разрешите приложению доступ к политике уведомлений.",
+  "dnd_access_denied_help": "При включенном режиме «Не беспокоить» азан может не звучать.",
+  "location_denied_help": "Приложению Muslimap требуется разрешение на доступ к вашему местоположению и GPS, чтобы определить, переместились ли вы.",
+  "notifications_denied_help": "Чтобы получать уведомления, разрешите приложению доступ к уведомлениям.",
+  "exact_alarm_access_title": "Точный доступ к сигнализации",
+  "exact_alarm_access_message": "Чтобы уведомления об азане срабатывали вовремя, разрешите приложению устанавливать точные будильники.",
+  "exact_alarm_denied_help": "Чтобы уведомления об азане срабатывали вовремя, разрешите приложению устанавливать точные будильники.",
+  "power_saving_mode_title": "Режим энергосбережения",
+  "power_saving_mode_message": "Ресурсоемкие задачи ограничиваются с целью экономии заряда аккумулятора и повышения эффективности.",
+
+  "notifications_title": "{salahhName} время",
+  "@notifications_title": {
+    "placeholders": {
+      "salahhName": {
+        "type": "String"
+      }
+    }
+  },
+  "notifications_body": "Пришло время {salahhName}",
+  "@notifications_body": {
+    "placeholders": {
+      "salahhName": {
+        "type": "String"
+      }
+    }
+  },
+  "rotate_left": "Поверните влево",
+  "rotate_right": "Повернуть вправо",
+  "correct_qibla_direction": "Вы находитесь в правильном направлении киблы",
+
+  "calculating": "Вычисление...",
+
+  "i_am_fasting": "Я пощусь",
+  "fasting_definition_title": "Определение поста",
+  "fasting_definition_body": "Воздержание от еды, питья и половых отношений с момента настоящего рассвета до захода солнца с намерением соблюдать пост.",
+
+  "remove_ads_internet_required_title": "Требуется подключение к Интернету",
+  "remove_ads_internet_required_message": "Подключитесь к Интернету и заново откройте приложение, чтобы загрузить информацию о покупке.",
+  "remove_ads_title": "Перейти на Premium",
+  "remove_ads_description": "Оформите Premium и пользуйтесь Muslimap без рекламы.",
+  "remove_ads_benefit_1": "Полное отключение рекламы",
+  "remove_ads_benefit_2": "Более чистый и быстрый интерфейс",
+  "remove_ads_benefit_3": "Поддержите Muslimap",
+  "one_time_purchase": "Разовая покупка • Premium навсегда",
+  "ads_removed": "У вас Premium!",
+  "processing_purchase": "Активация Premium...",
+  "remove_ads_footer": "Premium привязан к вашему аккаунту Apple ID или Google. Покупку можно восстановить в любое время.",
+  "purchase_success_message": "Добро пожаловать в Premium! Реклама исчезнет при следующем запуске приложения.",
+  "buy_for": "Получить Premium за {price}",
+  "@buy_for": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "restore_purchases": "Восстановить покупку",
+  "no_products_available": "Premium сейчас недоступен.",
+
+  "birthday_title": "Да, сегодня день рождения разработчика",
+  "birthday_message": "Если собираешься подарить мне что-нибудь, пусть это будет Muslimap Premium \uD83D\uDE09"
+}
