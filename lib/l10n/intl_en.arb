@@ -1,0 +1,913 @@
+{
+  "muslimap": "Muslimap",
+  "@muslimap": {
+    "description": "Application Name"
+  },
+  "seif_kandil": "Seif Kandil",
+  "@seif_kandil": {
+    "description": "Developer Name"
+  },
+  "english": "English",
+  "@english": {
+    "description": "English language"
+  },
+  "arabic": "Arabic",
+  "@arabic": {
+    "description": "Arabic language"
+  },
+  "russian": "Russian",
+  "@russian": {
+      "description": "Russian language"
+  },
+
+  "saturday_short": "Sat",
+  "@saturday_short": {
+    "description": "Saturday short name"
+  },
+  "sunday_short": "Sun",
+  "@sunday_short": {
+    "description": "Sunday short name"
+  },
+  "monday_short": "Mon",
+  "@monday_short": {
+    "description": "Monday short name"
+  },
+  "tuesday_short": "Tue",
+  "@tuesday_short": {
+    "description": "Tuesday short name"
+  },
+  "wednesday_short": "Wed",
+  "@wednesday_short": {
+    "description": "Wednesday short name"
+  },
+  "thursday_short": "Thu",
+  "@thursday_short": {
+    "description": "Thursday short name"
+  },
+  "friday_short": "Fri",
+  "@friday_short": {
+    "description": "Friday short name"
+  },
+
+  "january": "January",
+  "@january": {
+    "description": "January month name"
+  },
+  "february": "February",
+  "@february": {
+    "description": "February month name"
+  },
+  "march": "March",
+  "@march": {
+    "description": "March month name"
+  },
+  "april": "April",
+  "@april": {
+    "description": "April month name"
+  },
+  "may": "May",
+  "@may": {
+    "description": "May month name"
+  },
+  "june": "June",
+  "@june": {
+    "description": "June month name"
+  },
+  "july": "July",
+  "@july": {
+    "description": "July month name"
+  },
+  "august": "August",
+  "@august": {
+    "description": "August month name"
+  },
+  "september": "September",
+  "@september": {
+    "description": "September month name"
+  },
+  "october": "October",
+  "@october": {
+    "description": "October month name"
+  },
+  "november": "November",
+  "@november": {
+    "description": "November month name"
+  },
+  "december": "December",
+  "@december": {
+    "description": "December month name"
+  },
+
+  "fajr": "Fajr",
+  "@fajr": {
+    "description": "Fajr text word"
+  },
+  "sunrise": "Sunrise",
+  "@sunrise": {
+    "description": "Sunrise text word"
+  },
+  "dhuhr": "Dhuhr",
+  "@dhuhr": {
+    "description": "Dhuhr text word"
+  },
+  "jumuaah": "Jumu'ah",
+  "@jumuaah": {
+    "description": "Jumu'ah text word"
+  },
+  "asr": "Asr",
+  "@asr": {
+    "description": "Asr text word"
+  },
+  "maghrib": "Maghrib",
+  "@maghrib": {
+    "description": "Maghrib text word"
+  },
+  "isha": "Isha",
+  "@isha": {
+    "description": "Isha text word"
+  },
+  "zero": "0",
+  "@zero": {
+    "description": "Zero number"
+  },
+  "one": "1",
+  "@one": {
+    "description": "One number"
+  },
+  "two": "2",
+  "@two": {
+    "description": "Two number"
+  },
+  "indic_two": "2",
+  "@indic_two": {
+      "description": "U+0662 Arabic-Indic Digit Two"
+  },
+  "three": "3",
+  "@three": {
+    "description": "Three number"
+  },
+  "four": "4",
+  "@four": {
+    "description": "Four number"
+  },
+  "five": "5",
+  "@five": {
+    "description": "Five number"
+  },
+  "six": "6",
+  "@six": {
+    "description": "Six number"
+  },
+  "seven": "7",
+  "@seven": {
+    "description": "Seven number"
+  },
+  "eight": "8",
+  "@eight": {
+    "description": "Eight number"
+  },
+  "nine": "9",
+  "@nine": {
+    "description": "Nine number"
+  },
+  "in_preposition": "in",
+  "@in_preposition": {
+    "description": "in preposition which used in next prayer view"
+  },
+  "north_symbol": "N",
+  "@north_symbol": {
+    "description": "North symbol"
+  },
+  "south_symbol": "S",
+  "@south_symbol": {
+    "description": "South symbol"
+  },
+  "east_symbol": "E",
+  "@east_symbol": {
+    "description": "East symbol"
+  },
+  "west_symbol": "W",
+  "@west_symbol": {
+    "description": "West symbol"
+  },
+  "north_west_symbol": "NW",
+  "@north_west_symbol": {
+    "description": "North-West symbol"
+  },
+  "south_west_symbol": "SW",
+  "@south_west_symbol": {
+    "description": "South-West symbol"
+  },
+  "south_east_symbol": "SE",
+  "@south_east_symbol": {
+    "description": "South-East symbol"
+  },
+  "north_east_symbol": "NE",
+  "@north_east_symbol": {
+    "description": "North-East symbol"
+  },
+  "qibla": "Qibla",
+  "@qibla": {
+    "description": "Qibla text title"
+  },
+  "report_wrong_timings": "Report Wrong Timings",
+  "@report_wrong_timings": {
+    "description": "Report wrong timings text title"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings text title"
+  },
+  "language": "Language",
+  "@language": {
+    "description": "Language text title"
+  },
+  "use_english_digits": "",
+  "notifications": "Notifications",
+  "@notifications": {
+    "description": "Notifications text title"
+  },
+  "location": "Location",
+  "@location": {
+    "description": "Location text title"
+  },
+  "calculations": "Calculations",
+  "@calculations": {
+    "description": "Calculations text title"
+  },
+  "use_24hour_format": "Use 24-hour format",
+  "@use_24hour_format": {
+    "description": "Use 24-hour format text title"
+  },
+  "about": "About",
+  "@about": {
+    "description": "About text word"
+  },
+
+  "calculation_method_parameter_title": "Method",
+  "@calculation_method_parameter_title": {
+    "description": "Calculation method parameter title."
+  },
+  "shafaq_parameter_title": "Shafaq",
+  "@shafaq_parameter_title": {
+    "description": "Shafaq parameter title."
+  },
+  "school_parameter_title": "School",
+  "@school_parameter_title": {
+    "description": "Juristic setting for Asr prayer title."
+  },
+  "midnight_mode_parameter_title": "Midnight Mode",
+  "@midnight_mode_parameter_title": {
+    "description": "Midnight mode parameter title."
+  },
+  "latitude_adjustment_method_parameter_title": "Latitude Adjustment Method",
+  "@latitude_adjustment_method_parameter_title": {
+    "description": "Latitude adjustment method parameter title."
+  },
+  "timings_tune_parameter_title": "Timings Tune",
+  "@timings_tune_parameter_title": {
+    "description": "Timings tune parameter title."
+  },
+  "daylight_saving_time_parameter_title": "Daylight Saving Time",
+  "@daylight_saving_time_parameter_title": {
+    "description": "Daylight saving time parameter title."
+  },
+
+  "university_of_islamic_sciences_karachi_parameter": "University of Islamic Sciences, Karachi",
+  "@university_of_islamic_sciences_karachi_parameter": {
+    "description": "University of Islamic Sciences, Karachi Salahh calculation method parameter."
+  },
+  "islamic_society_north_america_parameter": "Islamic Society of North America",
+  "@islamic_society_north_america_parameter": {
+      "description": "Islamic Society of North America Salahh calculation method parameter."
+  },
+  "muslim_world_league_parameter": "Muslim World League",
+  "@muslim_world_league_parameter": {
+      "description": "Muslim World League Salahh calculation method parameter."
+  },
+  "umm_al_qura_university_makkah_parameter": "Umm Al-Qura University, Makkah",
+  "@umm_al_qura_university_makkah_parameter": {
+      "description": "Umm Al-Qura University, Makkah Salahh calculation method parameter."
+  },
+  "egyptian_general_authority_of_survey_parameter": "Egyptian General Authority of Survey",
+  "@egyptian_general_authority_of_survey_parameter": {
+      "description": "Egyptian General Authority of Survey Salahh calculation method parameter."
+  },
+  "gulf_region_parameter": "Gulf Region",
+  "@gulf_region_parameter": {
+      "description": "Gulf Region Salahh calculation method parameter."
+  },
+  "kuwait_parameter": "Kuwait",
+  "@kuwait_parameter": {
+      "description": "Kuwait Salahh calculation method parameter."
+  },
+  "qatar_parameter": "Qatar",
+  "@qatar_parameter": {
+      "description": "Qatar Salahh calculation method parameter."
+  },
+  "islamic_religious_council_singapore_parameter": "Islamic Religious Council, Singapore",
+  "@islamic_religious_council_singapore_parameter": {
+      "description": "Islamic Religious Council, Singapore Salahh calculation method parameter."
+  },
+  "islamic_union_organization_france_parameter": "Islamic Union Organization, France",
+  "@islamic_union_organization_france_parameter": {
+      "description": "Islamic Union Organization, France Salahh calculation method parameter."
+  },
+  "presidency_of_religious_affairs_turkey_parameter": "Presidency of Religious Affairs, Turkey",
+  "@presidency_of_religious_affairs_turkey_parameter": {
+      "description": "Presidency of Religious Affairs, Turkey Salahh calculation method parameter."
+  },
+  "spiritual_administration_of_muslims_russia_parameter": "Spiritual Administration of Muslims, Russia",
+  "@spiritual_administration_of_muslims_russia_parameter": {
+      "description": "Spiritual Administration of Muslims, Russia Salahh calculation method parameter."
+  },
+  "moonsighting_committee_worldwide_parameter": "Moonsighting Committee, Worldwide",
+  "@moonsighting_committee_worldwide_parameter": {
+      "description": "Moonsighting Committee, Worldwide Salahh calculation method parameter."
+  },
+  "dubai_uae_parameter": "Dubai, UAE (Not official)",
+  "@dubai_uae_parameter": {
+      "description": "Dubai, UAE Salahh calculation method parameter."
+  },
+  "department_of_islamic_development_malaysia_jakim_parameter": "Department of Islamic Development, Malaysia (JAKIM)",
+  "@department_of_islamic_development_malaysia_jakim_parameter": {
+      "description": "Department of Islamic Development, Malaysia (JAKIM) Salahh calculation method parameter."
+  },
+  "tunisia_parameter": "Tunisia",
+  "@tunisia_parameter": {
+      "description": "Tunisia Salahh calculation method parameter."
+  },
+  "algeria_parameter": "Algeria",
+  "@algeria_parameter": {
+      "description": "Algeria Salahh calculation method parameter."
+  },
+  "ministry_of_religion_indonesia_kemenag_parameter": "Ministry of Religion, Indonesia (KEMENAG)",
+  "@ministry_of_religion_indonesia_kemenag_parameter": {
+      "description": "Ministry of Religion, Indonesia (KEMENAG) Salahh calculation method parameter."
+  },
+  "morocco_parameter": "Morocco",
+  "@morocco_parameter": {
+      "description": "Morocco Salahh calculation method parameter."
+  },
+  "islamic_community_lisbon_portugal_parameter": "Islamic Community, Lisbon Portugal",
+  "@islamic_community_lisbon_portugal_parameter": {
+      "description": "Islamic Community, Lisbon Portugal Salahh calculation method parameter."
+  },
+  "ministry_of_awqaf_islamic_affairs_and_holy_places_jordan_parameter": "Ministry of Awqaf, Islamic Affairs and Holy Places, Jordan",
+  "@ministry_of_awqaf_islamic_affairs_and_holy_places_jordan_parameter": {
+      "description": "Ministry of Awqaf, Islamic Affairs and Holy Places, Jordan Salahh calculation method parameter."
+  },
+
+  "general_shafaq_parameter": "General",
+  "@general_shafaq_parameter": {
+    "description": "General shafaq parameter."
+  },
+  "white_shafaq_parameter": "White",
+  "@white_shafaq_parameter": {
+    "description": "White shafaq parameter."
+  },
+  "red_shafaq_parameter": "Red",
+  "@red_shafaq_parameter": {
+      "description": "Red shafaq parameter."
+  },
+
+  "shafi_parameter": "Shafii, Hanbali, and Maliki",
+  "@shafi_parameter": {
+    "description": "Shafi school parameter."
+  },
+  "hanafi_parameter": "Hanafi",
+  "@hanafi_parameter": {
+    "description": "Hanafi school parameter."
+  },
+
+  "mid_sunset_to_sunrise_parameter": "Mid Sunset To Sunrise",
+  "@mid_sunset_to_sunrise_parameter": {
+      "description": "Mid Sunset To Sunrise midnight mode parameter."
+  },
+  "mid_sunset_to_fajr_parameter": "Mid Sunset To Fajr (Jafari)",
+  "@mid_sunset_to_fajr_parameter": {
+      "description": "Mid Sunset To Fajr midnight mode parameter."
+  },
+
+  "middle_of_the_night_parameter": "Middle of Night",
+  "@middle_of_the_night_parameter": {
+    "description": "Middle of night latitude adjustment method parameter."
+  },
+  "seventh_of_the_night_parameter": "Seventh of Night",
+  "@seventh_of_the_night_parameter": {
+    "description": "Seventh of night latitude adjustment method parameter."
+  },
+  "angle_based_parameter": "Angle Based",
+  "@angle_based_parameter": {
+    "description": "Angle based latitude adjustment method parameter."
+  },
+
+  "auto": "Auto",
+  "@auto": {
+      "description": "Auto text word"
+  },
+  "enabled": "Enabled",
+  "@enabled": {
+      "description": "Enabled text word"
+  },
+  "disabled": "Disabled",
+  "@disabled": {
+      "description": "Disabled text word"
+  },
+
+  "minute": "Minute",
+  "@minute": {
+    "description": "Minute text word"
+  },
+  "system_s_default": "System's Default",
+  "@system_s_default": {
+    "description": "System's Default text title"
+  },
+  "recommended": "Recommended",
+  "@recommended": {
+    "description": "Recommended text word"
+  },
+  "default_text_word": "Default",
+  "@default_text_word": {
+    "description": "Default text word"
+  },
+  "standard": "Standard",
+  "@standard": {
+      "description": "Standard text word"
+  },
+  "theme": "Theme",
+  "@theme": {
+    "description": "Theme text word"
+  },
+  "light": "Light",
+  "@light": {
+    "description": "Light text word"
+  },
+  "dark": "Dark",
+  "@dark": {
+    "description": "Dark text word"
+  },
+  "azkaar_almasaa": "Azkaar Al-Masaa",
+  "@azkaar_almasaa": {
+    "description": "Azkaar Al-Masaa text title"
+  },
+  "azkaar_alsapah": "Azkaar Al-Sapah",
+  "@azkaar_alsapah": {
+    "description": "Azkaar Al-Sapah text title"
+  },
+  "saved_locations": "Saved Locations",
+  "@saved_locations": {
+      "description": "Saved Locations text title"
+  },
+
+  "salahh_title": "Prayer",
+  "@salahh_title": {
+    "description": "Salahh title text word."
+  },
+
+  "current_text_word": "Current",
+  "@current_text_word": {
+      "description": "Current text word title."
+  },
+  "new_text_word": "New",
+  "@new_text_word": {
+      "description": "New text word title."
+  },
+  "apply": "Apply",
+  "@apply": {
+      "description": "Apply text word."
+  },
+  "question_mark": "?",
+  "@question_mark": {
+      "description": "Question mark symbol."
+  },
+  "city": "City",
+  "@city": {
+      "description": "City text word"
+  },
+  "region": "Continent",
+  "@region": {
+      "description": "Region text word"
+  },
+  "country": "Country",
+  "@country": {
+      "description": "Country text word"
+  },
+  "state": "State",
+  "@state": {
+      "description": "State text word"
+  },
+  "salahh_times_compare_no_significant_difference": "No significant difference between current and new Salahh times.",
+  "@salahh_times_compare_no_significant_difference": {
+      "description": "Salahh times compare no significant difference text."
+  },
+  "ok": "OK",
+  "@ok": {
+      "description": "OK text word."
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+      "description": "Cancel text word."
+  },
+  "yes": "Yes",
+  "@yes": {
+      "description": "Yes text word."
+  },
+  "no_changes": "No Changes",
+  "@no_changes": {
+      "description": "No Changes text word."
+  },
+  "no_salahh_times_to_compare": "No Salahh times available to compare.",
+  "@no_salahh_times_to_compare": {
+      "description": "No Salahh times to compare text message."
+  },
+  "are_you_sure": "Are you sure",
+  "@are_you_sure": {
+      "description": "Are you sure text message."
+  },
+  "you_did_not_select_an_item": "You didn't select an item",
+  "@you_did_not_select_an_item": {
+      "description": "You didn't select an item text message."
+  },
+  "comma_separator": ",",
+  "@comma_separator": {
+      "description": "Comma separator symbol."
+  },
+  "percent_symbol": "%",
+  "@percent_symbol": {
+      "description": "Percent symbol."
+  },
+  "the_sahn": "Sahn",
+  "@sahn": {
+      "description": "The Sahn text title."
+  },
+  "meet": "Meet",
+  "@meet": {
+      "description": "Meet text title."
+  },
+  "upcoming": "Upcoming",
+  "@upcoming": {
+      "description": "Upcoming text title."
+  },
+  "sahn_introduction_message": "We've replaced the old Home with the Sahn — your quick-launch spot. Tap the colorful Sahn icon to jump in.",
+  "@sahn_introduction_message": {
+      "description": "The Sahn introduction message text."
+  },
+  "processing_salahh_times_message": "Still processing Salahh times...",
+  "@processing_salahh_times_message": {
+      "description": "Processing Salahh times message text."
+  },
+  "something_went_wrong": "Something went wrong",
+  "@something_went_wrong": {
+      "description": "Something went wrong text message."
+  },
+  "optional": "Optional",
+  "@optional": {
+      "description": "Optional text word."
+  },
+  "no_saved_salahh_data": "No saved Prayer times available.",
+  "@no_saved_salahh_data": {
+      "description": "No saved Salahh data text message."
+  },
+  "issue_submission_cooldown_message": "Please wait {minutes} minute(s) before submitting again.",
+  "@issue_submission_cooldown_message": {
+    "description": "Shown when user tries to submit before cooldown ends",
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "please_select_an_issue_type": "Please select an issue.",
+  "@please_select_an_issue_type": {
+      "description": "Please select an issue type text message."
+  },
+  "issue_submitted_successfully": "Issue submitted successfully",
+  "@issue_submitted_successfully": {
+      "description": "Issue submitted successfully text message."
+  },
+
+  "report_issue": "Report Issue",
+  "@report_issue": {
+      "description": "Report Issue text title."
+  },
+
+  "issue_type": "Issue Type",
+  "@issue_type": {
+      "description": "Issue Type text title."
+  },
+  "wrong_salahh_timings_issue": "Wrong Salahh Timings",
+  "@wrong_salahh_timings_issue": {
+      "description": "Wrong Salahh Timings issue title."
+  },
+  "wrong_qibla_issue": "Wrong Qibla",
+  "@wrong_qibla_issue": {
+      "description": "Wrong Qibla Direction issue title."
+  },
+  "wrong_localization_issue": "Wrong Translation",
+  "@wrong_localization_issue": {
+      "description": "Wrong Translation issue title."
+  },
+  "bug_issue": "Bug",
+  "@bug_issue": {
+      "description": "Bug issue title."
+  },
+  "enhancement_issue": "Enhancement",
+  "@enhancement_issue": {
+      "description": "Enhancement issue title."
+  },
+  "feature_request_issue": "Feature Request",
+  "@feature_request_issue": {
+      "description": "Feature Request issue title."
+  },
+  "inappropriate_ad": "Inappropriate Ad",
+  "@inappropriate_ad": {
+      "description": "Inappropriate Ad issue title."
+  },
+  "other_issue": "Other",
+  "@other_issue": {
+      "description": "Other issue title."
+  },
+
+  "description": "Description",
+  "@description": {
+      "description": "Description text title."
+  },
+  "describe_your_issue_here": "Describe your issue here...",
+  "@describe_your_issue_here": {
+      "description": "Describe your issue here placeholder text."
+  },
+  "unknown_location": "Unknown Location",
+  "@unknown_location": {
+      "description": "Unknown Location text message."
+  },
+  "abbreviated_latitude": "Lat",
+  "@abbreviated_latitude": {
+      "description": "Abbreviated Latitude text title."
+  },
+  "abbreviated_longitude": "Lon",
+  "@abbreviated_longitude": {
+    "description": "Abbreviated Longitude text title"
+  },
+  "no_coordinates": "No coordinates",
+  "@no_coordinates": {
+      "description": "No coordinates text message."
+  },
+  "saved_entry": "Saved Entry",
+  "@saved_entry": {
+      "description": "Saved Entry text title."
+  },
+  "no_data": "No data",
+  "@no_data": {
+      "description": "No data text message."
+  },
+  "retry": "Retry",
+  "@retry": {
+      "description": "Retry text word."
+  },
+  "api_token_expired_message": "Please update Muslimap to the latest version to continue receiving support.",
+  "@api_token_expired_message": {
+      "description": "API token expired message text."
+  },
+
+  "search_regions": "Search Continents",
+  "@search_regions": {
+    "description": "Search Regions text title."
+  },
+  "search_countries": "Search Countries",
+  "@search_countries": {
+      "description": "Search Countries text title."
+  },
+  "search_states": "Search States",
+  "@search_states": {
+      "description": "Search States text title."
+  },
+  "search_cities": "Search Cities",
+  "@search_cities": {
+    "description": "Search Cities text title."
+  },
+  "search_regions_hint_text": "Search by continent...",
+  "@search_regions_hint_text": {
+    "description": "Search Regions hint text."
+  },
+  "search_countries_hint_text": "Search by country...",
+  "@search_countries_hint_text": {
+    "description": "Search Countries hint text."
+  },
+  "search_states_hint_text": "Search by state...",
+  "@search_states_hint_text": {
+    "description": "Search States hint text."
+  },
+  "search_cities_hint_text": "Search by city, state, or country...",
+  "@search_cities_hint_text": {
+    "description": "Search Cities hint text."
+  },
+  "no_internet_connection": "No Internet Connection",
+  "@no_internet_connection": {
+    "description": "No Internet Connection text message."
+  },
+
+  "linkedin_profile": "LinkedIn Profile",
+  "@linkedin_profile": {
+    "description": "LinkedIn Profile text title."
+  },
+
+  "report_issue_alternative_note": "Or feel free to reach out to me on LinkedIn — just leave a connection note saying ‘muslimap fan’. Heh, thanks!",
+  "@report_issue_alternative_note": {
+    "description": "Report Issue alternative note text."
+  },
+  "link_copied_to_clipboard": "Link copied to clipboard!",
+  "@link_copied_to_clipboard": {
+    "description": "Link copied to clipboard text message."
+  },
+
+  "calculation_method_definition": "A preset set of rules used to calculate prayer times (mainly how Fajr and Isha are determined based on the sun).",
+  "@calculation_method_definition": {
+    "description": "Calculation method definition text"
+  },
+  "shafaq_definition": "The type of twilight used to decide when night (Isha) starts—usually when the redness or light in the sky disappears.",
+  "@shafaq_definition": {
+    "description": "Shafaq definition text"
+  },
+  "school_definition": "The Islamic legal school (madhab) you follow, which affects some prayer times (like Asr based on shadow length).",
+  "@school_definition": {
+    "description": "School definition text"
+  },
+  "midnight_mode_definition": "The way “Islamic midnight” is calculated—either halfway between sunset & sunrise or sunset & Fajr.",
+  "@midnight_mode_definition": {
+    "description": "Midnight mode definition text"
+  },
+  "latitude_adjustment_method_definition": "A rule used to estimate prayer times in high-latitude areas where normal sunrise/sunset patterns don’t work properly.",
+  "@latitude_adjustment_method_definition": {
+    "description": "Latitude adjustment method definition text"
+  },
+  "daylight_saving_time_definition": "A clock adjustment (usually +1 hour) that shifts displayed prayer times without changing the actual position of the sun.",
+  "@daylight_saving_time_definition": {
+    "description": "Daylight saving time definition text"
+  },
+
+  "muslimap_v1_support_expire_date_note": "Support for Muslimap v1 will end on {date}. Please update to the latest version to continue receiving updates and support.",
+  "@muslimap_v1_support_expire_date_note": {
+    "description": "Muslimap v1 support expire date note text.",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+
+  "powered_by": "Powered by",
+  "@powered_by": {
+    "description": "Powered by text word"
+  },
+  "developer_note": "I built Muslimap during a dark and difficult chapter of my life. I pray that Allah forgives my shortcomings and accepts this humble effort, and that He grants me a share of the reward for every soul this app helps remember their prayers.",
+  "@developer_note": {
+    "description": "Developer note text word"
+  },
+  "version": "Version",
+  "@version": {
+    "description": "Version text word."
+  },
+  "developed_by": "Developed by",
+  "@developed_by": {
+    "description": "Developed by text word."
+  },
+  "present": "present",
+  "@present": {
+    "description": "Present text word."
+  },
+  "please_wait": "Please wait",
+  "@please_wait": {
+    "description": "Please wait text word."
+  },
+  "no_magnetometer_sensor_found": "Your phone uses a different sensor setup, so magnetometer-based features aren’t available on this device.",
+  "@no_magnetometer_sensor_found": {
+    "description": "No magnetometer sensor found text message"
+  },
+  "rate_me": "Rate me",
+  "@rate_me": {
+    "description": "Rate me text word"
+  },
+  "battery_optimization_title": "Accurate Notifications",
+  "@battery_optimization_title": {
+    "description": "Title for battery optimization exemption dialog"
+  },
+  "battery_optimization_message": "To ensure Azan notifications play exactly on time, please allow the app to ignore battery optimizations.",
+  "@battery_optimization_message": {
+    "description": "Message for battery optimization exemption dialog"
+  },
+  "battery_optimization_denied_help": "Notifications may be delayed by your device system.",
+  "@battery_optimization_denied_help": {
+    "description": "Help message when battery optimization exemption is denied"
+  },
+  "allow": "Allow",
+  "@allow": {
+    "description": "Allow text word."
+  },
+  "dnd_access_title": "Do Not Disturb Access",
+  "@dnd_access_title": {
+    "description": "Title for Do Not Disturb access dialog"
+  },
+  "dnd_access_message": "To ensure Azan sounds play even when Do Not Disturb is on, please allow the app to access notification policy.",
+  "@dnd_access_message": {
+    "description": "Message for Do Not Disturb access dialog"
+  },
+  "dnd_access_denied_help": "Azan may not sound if Do Not Disturb is active.",
+  "@dnd_access_denied_help": {
+    "description": "Help message when Do Not Disturb access is denied"
+  },
+  "location_denied_help": "Muslimap needs your location permission and GPS to check if you've moved.",
+  "@location_denied_help": {
+    "description": "Help message when location permissions are denied"
+  },
+  "notifications_denied_help": "In order to receive notifications, please allow the app to access notifications.",
+  "@notifications_denied_help": {
+    "description": "Help message when notifications are denied"
+  },
+  "exact_alarm_access_title": "Exact Alarm Access",
+  "@exact_alarm_access_title": {
+    "description": "Title for exact alarm access dialog"
+  },
+  "exact_alarm_access_message": "To ensure Azan notifications play on time, please allow the app to set exact alarms.",
+  "@exact_alarm_access_message": {
+    "description": "Message for exact alarm access dialog"
+  },
+  "exact_alarm_denied_help": "To ensure Azan notifications play on time, please allow the app to set exact alarms.",
+  "@exact_alarm_denied_help": {
+    "description": "Help message when exact alarm is denied"
+  },
+  "power_saving_mode_title": "Power Saving Mode",
+  "@power_saving_mode_title": {
+    "description": "Title for power saving mode dialog"
+  },
+  "power_saving_mode_message": "Performance-intensive tasks are reduced to save battery and improve efficiency.",
+  "@power_saving_mode_message": {
+    "description": "Message for power saving mode dialog"
+  },
+
+  "notifications_title": "{salahhName} time",
+  "@notifications_title": {
+    "description": "Notifications title text",
+    "placeholders": {
+      "salahhName": {
+        "type": "String"
+      }
+    }
+  },
+  "notifications_body": "It's time for {salahhName}",
+  "@notifications_body": {
+    "description": "Notifications body text",
+    "placeholders": {
+      "salahhName": {
+        "type": "String"
+      }
+    }
+  },
+  "rotate_left": "Rotate to the left",
+  "rotate_right": "Rotate to the right",
+  "correct_qibla_direction": "You are in the correct qibla direction",
+
+  "calculating": "Calculating...",
+  "@calculating": {
+    "description": "Calculating text word"
+  },
+
+  "i_am_fasting": "I am Fasting",
+  "@i_am_fasting": {
+    "description": "I am Fasting text title"
+  },
+  "fasting_definition_title": "Fasting Definition",
+  "@fasting_definition_title": {
+    "description": "Fasting Definition title"
+  },
+  "fasting_definition_body": "Refraining from food, drink, and sexual activity from the break of true dawn until sunset, with the intention to fast.",
+  "@fasting_definition_body": {
+    "description": "Fasting Definition body text"
+  },
+
+  "remove_ads_internet_required_title": "Internet Connection Required",
+  "remove_ads_internet_required_message": "Please connect to the internet and reopen the app to load the purchase information.",
+  "remove_ads_title": "Go Premium",
+  "remove_ads_description": "Upgrade to Premium and enjoy Muslimap without ads.",
+  "remove_ads_benefit_1": "Remove all ads",
+  "remove_ads_benefit_2": "Cleaner, faster experience",
+  "remove_ads_benefit_3": "Support Muslimap",
+  "one_time_purchase": "One payment • Premium forever",
+  "ads_removed": "You're Premium!",
+  "processing_purchase": "Activating Premium...",
+  "remove_ads_footer": "Premium is linked to your Apple ID or Google account. Restore anytime.",
+  "purchase_success_message": "Welcome to Premium! Ads will be removed on your next app launch.",
+  "buy_for": "Get Premium for {price}",
+  "@buy_for": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "restore_purchases": "Restore Purchase",
+  "no_products_available": "Premium isn't available right now.",
+
+  "birthday_title": "Yep, it's developer's birthday",
+  "birthday_message": "If you're getting me a gift, make it Muslimap Premium \uD83D\uDE09"
+}
