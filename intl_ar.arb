@@ -1,0 +1,294 @@
+{
+  "muslimap": "Muslimap",
+  "seif_kandil": "سيف قنديل",
+  "english": "الإنجليزية",
+  "arabic": "العربية",
+  "russian": "الروسية",
+
+  "saturday_short": "السبت",
+  "sunday_short": "الأحد",
+  "monday_short": "الإثنين",
+  "tuesday_short": "الثلاثاء",
+  "wednesday_short": "الأربعاء",
+  "thursday_short": "الخميس",
+  "friday_short": "الجمعة",
+
+  "january": "يناير",
+  "february": "فبراير",
+  "march": "مارس",
+  "april": "أبريل",
+  "may": "مايو",
+  "june": "يونيو",
+  "july": "يوليو",
+  "august": "أغسطس",
+  "september": "سبتمبر",
+  "october": "أكتوبر",
+  "november": "نوفمبر",
+  "december": "ديسمبر",
+
+  "fajr": "الفجر",
+  "sunrise": "الشروق",
+  "dhuhr": "الظهر",
+  "jumuaah": "الجمعة",
+  "asr": "العصر",
+  "maghrib": "المغرب",
+  "isha": "العشاء",
+  "zero": "٠",
+  "one": "١",
+  "two": "۲",
+  "indic_two": "٢",
+  "three": "۳",
+  "four": "٤",
+  "five": "٥",
+  "six": "٦",
+  "seven": "٧",
+  "eight": "٨",
+  "nine": "٩",
+  "in_preposition": "خلال",
+  "north_symbol": "ش",
+  "south_symbol": "ج",
+  "east_symbol": "ق",
+  "west_symbol": "غ",
+  "north_west_symbol": "ش غ",
+  "south_west_symbol": "ج غ",
+  "south_east_symbol": "ج ش",
+  "north_east_symbol": "ش ش",
+  "qibla": "القبلة",
+  "report_wrong_timings": "الإبلاغ عن توقيت خاطئ",
+  "settings": "الإعدادت",
+  "language": "اللغة",
+  "use_english_digits": "استخدم الأرقام الإنجليزية",
+  "notifications": "الإشعارات",
+  "location": "الموقع",
+  "calculations": "حساب المواقيت",
+  "use_24hour_format": "استخدم نظام ٢٤ ساعة",
+  "about": "حول",
+
+  "calculation_method_parameter_title": "طريقة الحساب",
+  "shafaq_parameter_title": "الشفق",
+  "school_parameter_title": "المذهب",
+  "midnight_mode_parameter_title": "وضع منتصف الليل",
+  "latitude_adjustment_method_parameter_title": "طريقة تصحيح الحساب للدول الشمالية",
+  "timings_tune_parameter_title": "الضبط اليدوي للمواقيت",
+  "daylight_saving_time_parameter_title": "توقيت الصيفي",
+
+  "university_of_islamic_sciences_karachi_parameter": "جامعة العلوم الإسلامية، كراتشي",
+  "islamic_society_north_america_parameter": "الجمعية الإسلامية في أمريكا الشمالية",
+  "muslim_world_league_parameter": "رابطة العالم الإسلامي",
+  "umm_al_qura_university_makkah_parameter": "جامعة أم القرى، مكة المكرمة",
+  "egyptian_general_authority_of_survey_parameter": "الهيئة العامة المصرية للمساحة",
+  "gulf_region_parameter": "منطقة الخليج",
+  "kuwait_parameter": "الكويت",
+  "qatar_parameter": "قطر",
+  "islamic_religious_council_singapore_parameter": "المجلس الديني الإسلامي، سنغافورة",
+  "islamic_union_organization_france_parameter": "منظمة الاتحاد الإسلامي، فرنسا",
+  "presidency_of_religious_affairs_turkey_parameter": "رئاسة الشؤون الدينية، تركيا",
+  "spiritual_administration_of_muslims_russia_parameter": "الإدارة الروحية للمسلمين، روسيا",
+  "moonsighting_committee_worldwide_parameter": "لجنة رؤية الهلال، في جميع أنحاء العالم",
+  "dubai_uae_parameter": "دبي، الإمارات العربية المتحدة",
+  "department_of_islamic_development_malaysia_jakim_parameter": "وزارة التنمية الإسلامية، ماليزيا",
+  "tunisia_parameter": "تونس",
+  "algeria_parameter": "الجزائر",
+  "ministry_of_religion_indonesia_kemenag_parameter": "وزارة الشؤون الدينية، إندونيسيا",
+  "morocco_parameter": "المغرب",
+  "islamic_community_lisbon_portugal_parameter": "الجالية الإسلامية، لشبونة، البرتغال",
+  "ministry_of_awqaf_islamic_affairs_and_holy_places_jordan_parameter": "وزارة الأوقاف والشؤون الإسلامية والأماكن المقدسة، الأردن",
+
+  "general_shafaq_parameter": "عام",
+  "white_shafaq_parameter": "أبيض",
+  "red_shafaq_parameter": "أحمر",
+
+  "shafi_parameter": "شافعي، حنبلي، ومالكي",
+  "hanafi_parameter": "حنفي",
+
+  "mid_sunset_to_sunrise_parameter": "منتصف الغروب إلى شروق الشمس",
+  "mid_sunset_to_fajr_parameter": "منتصف الغروب إلى الفجر",
+
+  "middle_of_the_night_parameter": "منتصف الليل",
+  "seventh_of_the_night_parameter": "سبع الليل",
+  "angle_based_parameter": "زاوية الشفق",
+
+  "auto": "تلقائي",
+  "enabled": "مفعل",
+  "disabled": "غير مفعل",
+
+  "minute": "دقيقة",
+  "system_s_default": "اعدادات النظام الإفتراضية",
+  "recommended": "موصى به",
+  "default_text_word": "افتراضي",
+  "standard": "قياسي",
+  "theme": "سمة",
+  "light": "فاتح",
+  "dark": "داكن",
+  "azkaar_almasaa": "أذكار المساء",
+  "azkaar_alsapah": "أذكار الصباح",
+  "saved_locations": "المواقع المحفوظة",
+
+  "salahh_title": "صلاة",
+
+  "current_text_word": "الحالي",
+  "new_text_word": "الجديد",
+  "apply": "تطبيق",
+  "question_mark": "؟",
+  "city": "المدينة",
+  "region": "القارة",
+  "country": "الدولة",
+  "state": "الولاية",
+  "salahh_times_compare_no_significant_difference": "لا يوجد فرق كبير بين الأوقات الحالية والجديدة.",
+  "ok": "حسناً",
+  "cancel": "إلغاء",
+  "yes": "نعم",
+  "no_changes": "لا تغييرات",
+  "no_salahh_times_to_compare": "لا توجد أوقات صلاة للمقارنة.",
+  "are_you_sure": "هل أنت متأكد",
+  "you_did_not_select_an_item": "لم تقم باختيار عنصر",
+  "comma_separator": "،",
+  "percent_symbol": "٪",
+  "the_sahn": "الصحن",
+  "meet": "التقِ",
+  "upcoming": "التالي",
+  "sahn_introduction_message": "لقد استبدلنا الصفحة الرئيسية القديمة بالصحن - مكان الإطلاق السريع الخاص بك. اضغط على أيقونة الصحن الملونة للقفز.",
+  "processing_salahh_times_message": "لا يزال يتم معالجة أوقات الصلاة...",
+  "something_went_wrong": "حدث خطأ ما",
+  "optional": "اختياري",
+  "no_saved_salahh_data": "لا توجد بيانات صلاة محفوظة",
+  "issue_submission_cooldown_message": "يمكنك فقط إرسال مشكلة واحدة في كل مرة. يرجى الانتظار {minutes} دقيقة قبل إرسال أخرى.",
+  "@issue_submission_cooldown_message": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "please_select_an_issue_type": "يرجى اختيار مشكلة.",
+  "issue_submitted_successfully": "تم إرسال المشكلة بنجاح. شكراً لمساعدتك في تحسين Muslimap!",
+
+  "report_issue": "الإبلاغ عن مشكلة",
+
+  "issue_type": "نوع المشكلة",
+  "wrong_salahh_timings_issue": "توقيتات الصلاة خاطئة",
+  "wrong_qibla_issue": "اتجاه القبلة خاطئ",
+  "wrong_localization_issue": "ترجمة خاطئة",
+  "bug_issue": "خطأ",
+  "enhancement_issue": "تحسين",
+  "feature_request_issue": "طلب ميزة",
+  "inappropriate_ad": "إعلان غير لائق",
+  "other_issue": "أخرى",
+
+  "description": "الوصف",
+  "describe_your_issue_here": "صف مشكلتك هنا...",
+  "unknown_location": "موقع غير معروف",
+  "abbreviated_latitude": "خط عرض",
+  "abbreviated_longitude": "خط طول",
+  "no_coordinates": "لا توجد إحداثيات",
+  "saved_entry": "البيانات المحفوظة",
+  "no_data": "لا توجد بيانات",
+  "retry": "إعادة المحاولة",
+  "api_token_expired_message": "يرجى تحديث Muslimap إلى أحدث إصدار لمواصلة الحصول على الدعم.",
+
+  "search_regions": "البحث في القارات",
+  "search_countries": "البحث في البلدان",
+  "search_states": "البحث في الولايات",
+  "search_cities": "البحث في المدن",
+  "search_regions_hint_text": "البحث حسب القارة...",
+  "search_countries_hint_text": "البحث حسب البلد...",
+  "search_states_hint_text": "البحث حسب الولاية...",
+  "search_cities_hint_text": "ابحث حسب المدينة أو الولاية أو البلد...",
+  "no_internet_connection": "لا يوجد اتصال بالإنترنت",
+
+  "linkedin_profile": "الملف الشخصي على LinkedIn",
+
+  "report_issue_alternative_note": "أو لا تتردد في التواصل معي عبر LinkedIn — ما عليك سوى ترك رسالة طلب اتصال تقول فيها ”muslimap fan“. شكرًا!",
+  "link_copied_to_clipboard": "تم نسخ الرابط إلى الحافظة!",
+
+  "calculation_method_definition": "مجموعة قواعد محددة مسبقًا تُستخدم لحساب أوقات الصلاة (وبشكل أساسي كيفية تحديد أوقات صلاة الفجر والعشاء استنادًا إلى الشمس).",
+  "shafaq_definition": "نوع الغسق الذي يُستخدم لتحديد وقت بدء صلاة العشاء (الإيشا) — وعادةً ما يكون ذلك عند اختفاء الاحمرار أو الضوء من السماء.",
+  "school_definition": "المذهب الفقهي الذي تتبعه، والذي يؤثر على أوقات بعض الصلوات (مثل صلاة العصر التي تُحدد بناءً على طول الظل).",
+  "midnight_mode_definition": "طريقة حساب «منتصف الليل الإسلامي» — إما في منتصف المسافة بين غروب الشمس وشروقها، أو بين غروب الشمس وصلاة الفجر.",
+  "latitude_adjustment_method_definition": "قاعدة تُستخدم لتقدير أوقات الصلاة في المناطق ذات خطوط العرض العالية، حيث لا تنطبق أنماط شروق الشمس وغروبها المعتادة بشكل صحيح.",
+  "daylight_saving_time_definition": "تعديل في الساعة (عادةً +١ ساعة) يؤدي إلى تغيير أوقات الصلاة المعروضة دون تغيير الموقع الفعلي للشمس.",
+
+  "muslimap_v1_support_expire_date_note": "سيتوقف دعم الإصدار Muslimap v1 في {date}. يرجى التحديث إلى أحدث إصدار لمواصلة تلقي التحديثات والدعم.",
+  "@muslimap_v1_support_expire_date_note": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+
+  "powered_by": "بفضل",
+  "developer_note": "لقد قمت بتطوير Muslimap خلال مرحلة مظلمة وصعبة من حياتي. وأدعو الله أن يغفر لي ذنوبي ويقبل هذا الجهد المتواضع، وأن يمنحني نصيباً من الأجر عن كل شخص يساعده هذا التطبيق على تذكر صلواته.",
+  "version": "الإصدار",
+  "developed_by": "تم تطويره بواسطة",
+  "present": "حالياً",
+  "please_wait": "يرجى الانتظار",
+  "no_magnetometer_sensor_found": "يستخدم هاتفك إعدادات مستشعرات مختلفة، لذا فإن الميزات التي تعتمد على مقياس المغناطيسية غير متوفرة على هذا الجهاز.",
+  "rate_me": "قيمني",
+  "battery_optimization_title": "إشعارات دقيقة",
+  "battery_optimization_message": "لضمان عمل إشعارات الأذان في الوقت المحدد بالضبط، يرجى السماح للتطبيق بتجاهل تحسينات البطارية.",
+  "battery_optimization_denied_help": "قد يتأخر وصول الإشعارات بسبب نظام جهازك.",
+  "allow": "السماح",
+  "dnd_access_title": "عدم الإزعاج",
+  "dnd_access_message": "لضمان تشغيل أصوات الأذان حتى عند تشغيل وضع ”عدم الإزعاج“، يرجى السماح للتطبيق بالوصول إلى سياسة الإشعارات.",
+  "dnd_access_denied_help": "قد لا يُسمع صوت الأذان إذا كانت ميزة «عدم الإزعاج» قيد التشغيل.",
+  "location_denied_help": "يحتاج Muslimap إلى إذن الوصول إلى موقعك وإلى GPS للتحقق مما إذا كنت قد تحركت.",
+  "notifications_denied_help": "لتلقي الإشعارات، يرجى السماح للتطبيق بالوصول إلى الإشعارات.",
+  "exact_alarm_access_title": "الوصول إلى Exact Alarm",
+  "exact_alarm_access_message": "لضمان تشغيل إشعارات الأذان في الوقت المحدد، يرجى السماح للتطبيق بضبط المنبهات بدقة.",
+  "exact_alarm_denied_help": "لضمان تشغيل إشعارات الأذان في الوقت المحدد، يرجى السماح للتطبيق بضبط المنبهات بدقة.",
+  "power_saving_mode_title": "وضع توفير الطاقة",
+  "power_saving_mode_message": "يتم تقليل المهام التي تتطلب أداءً مكثفًا لتوفير طاقة البطارية وتحسين الكفاءة.",
+
+  "notifications_title": "وقت {salahhName}",
+  "@notifications_title": {
+    "placeholders": {
+      "salahhName": {
+        "type": "String"
+      }
+    }
+  },
+  "notifications_body": "حان وقت صلاة {salahhName}",
+  "@notifications_body": {
+    "placeholders": {
+      "salahhName": {
+        "type": "String"
+      }
+    }
+  },
+  "rotate_left": "استدر إلى اليسار",
+  "rotate_right": "استدر إلى اليمين",
+  "correct_qibla_direction": "أنت في اتجاه القبلة الصحيح",
+
+  "calculating": "جاري الحساب...",
+
+  "i_am_fasting": "إنِّي صائِمٌ",
+  "fasting_definition_title": "تعريف الصيام",
+  "fasting_definition_body": "الإمساك عن شهوتي البطن والفرج، أي المفطرات، من طلوع الفجر الصادق، إلى غروب الشمس مع النية.",
+
+  "remove_ads_internet_required_title": "يتطلب اتصالاً بالإنترنت",
+  "remove_ads_internet_required_message": "يرجى الاتصال بالإنترنت ثم إعادة فتح التطبيق لتحميل معلومات الشراء.",
+  "remove_ads_title": "الترقية إلى الإصدار المميز",
+  "remove_ads_description": "قم بالترقية إلى الإصدار المميز واستمتع بتطبيق Muslimap بدون إعلانات.",
+  "remove_ads_benefit_1": "إزالة جميع الإعلانات",
+  "remove_ads_benefit_2": "تجربة أسرع وأكثر سلاسة",
+  "remove_ads_benefit_3": "ادعم تطبيق Muslimap",
+  "one_time_purchase": "دفعة واحدة • الإصدار المميز مدى الحياة",
+  "ads_removed": "أنت الآن مشترك في الإصدار المميز!",
+  "processing_purchase": "جارٍ تفعيل الإصدار المميز...",
+  "remove_ads_footer": "يرتبط الإصدار المميز بحساب Apple أو Google الخاص بك. يمكنك استعادته في أي وقت.",
+  "purchase_success_message": "مرحبًا بك في الإصدار المميز! سيتم إزالة الإعلانات عند تشغيل التطبيق في المرة القادمة.",
+  "buy_for": "احصل على الإصدار المميز مقابل {price}",
+  "@buy_for": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "restore_purchases": "استعادة المشتريات",
+  "no_products_available": "الإصدار المميز غير متاح حاليًا.",
+
+  "birthday_title": "عيد ميلاد المُطوِّر",
+  "birthday_message": "إذا كنت تنوي أن تقدم لي هدية، فليكن «الإصدار المميز من Muslimap» \uD83D\uDE09"
+}
